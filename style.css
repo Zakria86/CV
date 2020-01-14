@@ -93,18 +93,38 @@ body
 background-color: #000;
 }
 
+.nav-bar .fa-bars
+{
+    font-size: 35px;
+    color: #fff;
+}
+
 .navbar-brand img
 {
     height:50px;
 }
 
-.nav-bar .fa-bars
-{
-    font-size: 35px;
-    color : #fff;
-}
-
 .navbar-toggler
 {
     outline: none !important;
+}
+.navbar-nav
+{
+    float: right;
+    text-align:right ;
+
+}
+.nav-link
+{
+    color: #fff;
+}
+
+.skills-bar p
+{
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+.progress
+{
+    
 }
